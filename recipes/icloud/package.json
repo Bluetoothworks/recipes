@@ -1,0 +1,9 @@
+{
+  "id": "icloud",
+  "name": "iCloud",
+  "version": "1.1.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.icloud.com/"
+  }
+}
